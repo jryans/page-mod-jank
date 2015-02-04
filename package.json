@@ -1,0 +1,12 @@
+{
+  "title": "Page Mod Jank",
+  "name": "page-mod-jank",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "author": "J. Ryan Stinnett <jryans@gmail.com>",
+  "engines": {
+    "firefox": ">=33.0a1"
+  },
+  "license": "MIT"
+}
